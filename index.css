@@ -1,0 +1,30 @@
+.container{
+    margin-top: 100px;
+}
+.card{
+    margin: 0px;
+}
+/* Customize the button style */
+.btn-primary {
+    background-color: #ff9900; /* Orange */
+    border-color: #ff9900;
+  }
+  
+  /* Center the modal title */
+.modal-title {
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  /* Style the modal image */
+#modalImage {
+    display: block;
+    margin: 0 auto;
+    max-height: 300px; /* Adjust the height as needed */
+    max-width: 100%; /* Ensure the image doesn't exceed the modal width */
+  }
+  
+  /* Customize the modal body background color */
+.modal-body {
+    background-color: #f7f7f7;
+  }
